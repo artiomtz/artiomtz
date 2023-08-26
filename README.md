@@ -1,5 +1,7 @@
 <style>
-    name { font-family: "Lucida Handwriting" }
+    s { text-decoration:none;
+        font-family: "Lucida Handwriting"
+    }    
 </style>
 
 <!-- --------------------------------------------------------------------------------------- -->
@@ -12,9 +14,9 @@
 <!-- name title -->
 <div align="center" style="font-size:40px; color:lightgray">
     <&nbsp; Hi, I'm
-    <name>
+    <s>
         Artiom
-    </name>
+    </s>
     &nbsp; />
 </div>
 
