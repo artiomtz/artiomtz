@@ -1,3 +1,7 @@
+<style>
+    name { font-family: "Lucida Handwriting" }
+</style>
+
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- header -->
 <!-- --------------------------------------------------------------------------------------- -->
@@ -8,9 +12,9 @@
 <!-- name title -->
 <div align="center" style="font-size:40px; color:lightgray">
     <&nbsp; Hi, I'm
-    <span style="font-family:Lucida Handwriting">
+    <name>
         Artiom
-    </span>
+    </name>
     &nbsp; />
 </div>
 
@@ -88,8 +92,10 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- connect -->
 <!-- --------------------------------------------------------------------------------------- -->
-<img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30"> 
-<span style="font-size:30px; color:lightgray; font-weight: bold;margin:10px">Connnect</span>
+
+### <img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30">&emsp;Connnect
+
+<!-- <span style="font-size:30px; color:lightgray; font-weight: bold;margin:10px">Connnect</span> -->
 <br/>
 <br/>
 
