@@ -94,14 +94,16 @@
 <br/>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="noopener noreferrer">
-        <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="60" height="60" style="padding-bottom:7px;padding-left:7px"/>
+    <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="external">
+        <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="50" height="50"/>
     </a>
-    <a href="http://artiomtsimk.in/" target="_blank" rel="noopener noreferrer">
-        <img src="assets/icon_person.svg" alt="My Website" width="60" height="60" style="padding-bottom:7px;padding-right:50px;padding-left:55px"/>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <a href="http://artiomtsimk.in/" target="_blank" rel="external">
+        <img src="assets/icon_person.svg" alt="My Website" width="50" height="50"/>
     </a>
-    <a href="mailto:artiomtz@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="assets/icon_gmail.svg" alt="Gmail" width="72" height="72"/>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <a href="mailto:artiomtz@gmail.com" target="_blank" rel="external">
+        <img src="assets/icon_gmail.svg" alt="Gmail" width="62" height="62"/>
     </a>
 </div>
 
