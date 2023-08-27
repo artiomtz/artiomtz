@@ -7,7 +7,7 @@
 <!-- name title -->
 <!-- --------------------------------------------------------------------------------------- -->
 <h1 align="center">
-    <&nbsp; Hi, I'm __Artiom__ &nbsp;/>
+    <&nbsp; Hi, I'm 𝘼𝙧𝙩𝙞𝙤𝒎 &nbsp;/>
 </h1>
 
 <!-- --------------------------------------------------------------------------------------- -->
@@ -15,7 +15,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1200&height=80&color=69F539)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1200&height=75&color=69F539)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,10 +72,9 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-![a](https://komarev.com/ghpvc/?username=artiomtz&color=4cbf26&style=for-the-badge)
+![Visitor count](https://komarev.com/ghpvc/?username=artiomtz&color=4cbf26&style=for-the-badge)
 
 </div>
-<br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- connect -->
