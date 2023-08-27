@@ -88,7 +88,7 @@
     <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="external">
         <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="50" height="50"/>
     </a>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <a href="http://artiomtsimk.in/" target="_blank" rel="external">
         <img src="assets/icon_person.svg" alt="My Website" width="50" height="50"/>
     </a>
