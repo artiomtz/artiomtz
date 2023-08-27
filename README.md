@@ -1,24 +1,20 @@
-<style>
-    s { text-decoration:none;
-        font-family: "Lucida Handwriting"
-    }    
-</style>
-
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- header -->
 <!-- --------------------------------------------------------------------------------------- -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=header&animation=fadeIn"/>
+<br/>
+<br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
-<!-- --------------------------------------------------------------------------------------- -->
 <!-- name title -->
-<div align="center" style="font-size:40px; color:lightgray">
+<!-- --------------------------------------------------------------------------------------- -->
+<h1 align="center">
     <&nbsp; Hi, I'm
-    <s>
+    <strong>
         Artiom
-    </s>
-    &nbsp; />
-</div>
+    </strong>
+    &nbsp;/>
+</h1>
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- dynamic text -->
@@ -32,8 +28,9 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- skills -->
 <!-- --------------------------------------------------------------------------------------- -->
-<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
-<span style="font-size:30px; color:lightgray; font-weight: bold;margin:10px">Skills</span>
+
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">&ensp;Skills
+
 <br/>
 <br/>
 
@@ -58,8 +55,9 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- contributions -->
 <!-- --------------------------------------------------------------------------------------- -->
-<img src='https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966' width="30"> 
-<span style="font-size:30px; color:lightgray; font-weight: bold;margin:10px">Contributions</span>
+
+# <img src='https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966' width="30">&ensp;Contributions
+
 <br/>
 <br/>
 
@@ -95,9 +93,8 @@
 <!-- connect -->
 <!-- --------------------------------------------------------------------------------------- -->
 
-### <img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30">&emsp;Connnect
+# <img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30">&ensp;Connnect
 
-<!-- <span style="font-size:30px; color:lightgray; font-weight: bold;margin:10px">Connnect</span> -->
 <br/>
 <br/>
 
@@ -114,6 +111,8 @@
         <img src="assets/icon_gmail.svg" alt="Gmail" width="62" height="62"/>
     </a>
 </div>
+<br/>
+<br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- footer -->
