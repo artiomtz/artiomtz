@@ -15,7 +15,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1200&height=75&color=69F539)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1000&height=75&color=69F539)](https://git.io/typing-svg)
 
 </div>
 
@@ -86,15 +86,15 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="external">
-        <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="50" height="50"/>
+        <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="http://artiomtsimk.in/" target="_blank" rel="external">
-        <img src="assets/icon_person.svg" alt="My Website" width="50" height="50"/>
+        <img src="assets/icon_person.svg" alt="My Website" width="40" height="40"/>
     </a>
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="mailto:artiomtz@gmail.com" target="_blank" rel="external">
-        <img src="assets/icon_gmail.svg" alt="Gmail" width="62" height="62"/>
+        <img src="assets/icon_gmail.svg" alt="Gmail" width="47" height="47"/>
     </a>
 </div>
 
