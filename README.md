@@ -7,11 +7,7 @@
 <!-- name title -->
 <!-- --------------------------------------------------------------------------------------- -->
 <h1 align="center">
-    <&nbsp; Hi, I'm
-    <strong>
-        Artiom
-    </strong>
-    &nbsp;/>
+    <&nbsp; Hi, I'm __Artiom__ &nbsp;/>
 </h1>
 
 <!-- --------------------------------------------------------------------------------------- -->
@@ -19,7 +15,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1200&height=100&color=69F539)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+freestyle+front-end+developer;A+brave+back-end+developer;A+sociable+software+engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1200&height=80&color=69F539)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +25,6 @@
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">&ensp;Skills
 
-<br/>
 <br/>
 
 <div align="center">
@@ -48,7 +43,6 @@
 
 </div>
 <br/>
-<br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- contributions -->
@@ -57,14 +51,12 @@
 # <img src='https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966' width="30">&ensp;Contributions
 
 <br/>
-<br/>
 
 <div align="center">
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artiomtz&theme=github-compact&area=true&custom_title=Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-<br/>
 <br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
@@ -73,7 +65,6 @@
 <div align="center">
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiomtz&layout=compact&hide_border=true&langs_count=6&title_color=4cbf26&text_color=A0A0A0&bg_color=1a1e24&size_weight=0.5&count_weight=0.5" />
 </div>
-<br/>
 <br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
@@ -85,7 +76,6 @@
 
 </div>
 <br/>
-<br/>
 
 <!-- --------------------------------------------------------------------------------------- -->
 <!-- connect -->
@@ -93,7 +83,6 @@
 
 # <img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30">&ensp;Connnect
 
-<br/>
 <br/>
 
 <div align="center">
