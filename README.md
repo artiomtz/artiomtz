@@ -85,15 +85,15 @@
 <br/>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="external">
+    <a href="https://www.linkedin.com/in/artiom-tsimkin" target="_blank" rel="external" title="My LinkedIn">
         <img src="assets/icon_linkedin.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     &emsp;&emsp;&emsp;&emsp;
-    <a href="http://artiomtsimk.in/" target="_blank" rel="external">
+    <a href="http://artiomtsimk.in/" target="_blank" rel="external" title="My Website">
         <img src="assets/icon_person.svg" alt="My Website" width="40" height="40"/>
     </a>
     &emsp;&emsp;&emsp;&emsp;
-    <a href="mailto:artiomtz@gmail.com" target="_blank" rel="external">
+    <a href="mailto:artiomtz@gmail.com" target="_blank" rel="external" title="My Gmail">
         <img src="assets/icon_gmail.svg" alt="Gmail" width="47" height="47"/>
     </a>
 </div>
