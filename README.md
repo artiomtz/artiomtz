@@ -25,9 +25,9 @@
 
 <h1>
     <a href="assets/skills.gif" target="_blank" rel="external">
-        <img src='assets/skills.gif' width="30">
-        <span style="width: 100%;">&nbsp;𝑆𝑘𝑖𝑙𝑙𝑠</span>
+        <img src='assets/skills.gif' width="30"/>
     </a>
+    &nbsp;𝑆𝑘𝑖𝑙𝑙𝑠
 </h1>
 
 <br/>
