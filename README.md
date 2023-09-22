@@ -53,7 +53,12 @@
 <!-- contributions -->
 <!-- --------------------------------------------------------------------------------------- -->
 
-# <img src='assets/contributions.gif' width="30">&ensp;𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛𝑠
+<h1>
+    <a href="assets/contributions.gif" target="_blank" rel="external">
+        <img src='assets/contributions.gif' width="45"/>
+    </a>
+    &nbsp;𝐶𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑜𝑛𝑠
+</h1>
 
 <br/>
 
@@ -85,7 +90,12 @@
 <!-- connect -->
 <!-- --------------------------------------------------------------------------------------- -->
 
-# <img src='https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png' width="30">&ensp;𝐶𝑜𝑛𝑛𝑒𝑐𝑡
+<h1>
+    <a href="assets/handshake.gif" target="_blank" rel="external">
+        <img src='assets/handshake.gif' width="45"/>
+    </a>
+    &nbsp;𝐶𝑜𝑛𝑛𝑒𝑐𝑡
+</h1>
 
 <br/>
 
