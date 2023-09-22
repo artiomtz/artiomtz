@@ -24,8 +24,10 @@
 <!-- --------------------------------------------------------------------------------------- -->
 
 <h1>
-    <img src='assets/skills.gif' width="30" data-animated-image>
-    &nbsp;𝑆𝑘𝑖𝑙𝑙𝑠
+    <a href="assets/skills.gif" target="_blank" rel="external">
+        <img src='assets/skills.gif' width="30">
+        &nbsp;𝑆𝑘𝑖𝑙𝑙𝑠
+    </a>
 </h1>
 
 <br/>
