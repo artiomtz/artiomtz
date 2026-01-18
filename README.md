@@ -73,7 +73,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-[![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=artiomtz&layout=compact&hide_border=true&langs_count=6&title_color=4cbf26&text_color=A0A0A0&bg_color=1a1e24)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=artiomtz&layout=compact&hide_border=true&langs_count=6&title_color=4cbf26&text_color=A0A0A0&bg_color=1a1e24&size_weight=0.5&count_weight=0.5)](https://github.com/Pranesh-2005/github-readme-stats)
 
 </div>
 <br/>
