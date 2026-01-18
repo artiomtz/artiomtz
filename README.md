@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artiomtz&theme=github-compact&area=true&custom_title=Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=artiomtz&theme=github-compact&area=true&custom_title=Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <br/>
@@ -71,7 +71,9 @@
 <!-- languages -->
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
-    <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artiomtz&layout=compact&hide_border=true&langs_count=6&title_color=4cbf26&text_color=A0A0A0&bg_color=1a1e24&size_weight=0.5&count_weight=0.5" />
+
+[![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=artiomtz&layout=compact&hide_border=true&langs_count=6&title_color=4cbf26&text_color=A0A0A0&bg_color=1a1e24)](https://github.com/Pranesh-2005/github-readme-stats)
+
 </div>
 <br/>
 
@@ -80,7 +82,7 @@
 <!-- --------------------------------------------------------------------------------------- -->
 <div align="center">
 
-![Visitor count](https://komarev.com/ghpvc/?username=artiomtz&color=4cbf26&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=artiomtz&color=4cbf26&style=for-the-badge)
 
 </div>
 
